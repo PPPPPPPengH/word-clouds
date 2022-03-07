@@ -1,5 +1,5 @@
 # word-clouds
-Automatisation de la creation des ''word clouds''
+Automatisation de la creation des ''word clouds'' a partir des tweets.
 Our tool automates the creation of word clouds from tweets on Twitter. With our tool, we can create the word cloud, by searching the words and filtering the tweets by language and date. 
 Word Cloud is a data visualization technique used for representing text data, in which the size of each word indicates its frequency or importance. It’s useful for companies to analyze the feedback from their customers. To collect the data from Twitter, we used the API. API, or Application Programming Interface, is a software intermediary that allows two applications to talk to each other. 
 Stopwords are the commonly occurring words in different languages such as “the”, “a”, “an”, “in”… that don’t add much meaning to a sentence. In our case, we have three lists of stopwords for three languages: English, French, and  Spanish. These words are ignored in natural language processing tasks. So we add stopwords list, so they won’t appear in the word cloud.
