@@ -1,5 +1,5 @@
-#bearer_token = "AAAAAAAAAAAAAAAAAAAAAFZNXAEAAAAAtMxzwTqdmLPBE2maLziI%2BMZFyqc%3DPf8IraaOUhkjkLHzaUjiPgVgKKNHswY4bVEdWW67mBB6NKR9Te"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAIRAWgEAAAAAjatIMs5ekMmgTxkWgzh2A5fq3xc%3DhNVEAe5pjUyEYRs37maD5Uui5aexMzWZIdVscEOQxB943IO4fb"
+#bearer_token = ""
+bearer_token = ""
 
 headers = {"Authorization": "Bearer {}".format(bearer_token)}
 
